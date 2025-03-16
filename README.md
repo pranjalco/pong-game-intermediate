@@ -2,7 +2,7 @@
 A classic Pong game built using Python’s `turtle` and `time` modules with an OOP approach. Two players compete to reach a winning score of 10. 
 
 ## Screenshots
-![ss1](./screenshots/1.png), ![ss2](./screenshots/2.png), ![ss3](./screenshots/3.png)
+![ss1](./screenshots/1.PNG), ![ss2](./screenshots/2.PNG), ![ss3](./screenshots/3.PNG)
 
 ## Author
 Pranjal Sarnaik
